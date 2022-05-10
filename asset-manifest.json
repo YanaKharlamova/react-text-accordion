@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-text-accordion/static/css/main.ca3b564e.chunk.css",
+    "main.js": "/react-text-accordion/static/js/main.078738b3.chunk.js",
+    "main.js.map": "/react-text-accordion/static/js/main.078738b3.chunk.js.map",
+    "runtime~main.js": "/react-text-accordion/static/js/runtime~main.d6130da6.js",
+    "runtime~main.js.map": "/react-text-accordion/static/js/runtime~main.d6130da6.js.map",
+    "static/js/2.16eb259b.chunk.js": "/react-text-accordion/static/js/2.16eb259b.chunk.js",
+    "static/js/2.16eb259b.chunk.js.map": "/react-text-accordion/static/js/2.16eb259b.chunk.js.map",
+    "index.html": "/react-text-accordion/index.html",
+    "precache-manifest.c3c636012709a35bd5bc7bf67584db38.js": "/react-text-accordion/precache-manifest.c3c636012709a35bd5bc7bf67584db38.js",
+    "service-worker.js": "/react-text-accordion/service-worker.js",
+    "static/css/main.ca3b564e.chunk.css.map": "/react-text-accordion/static/css/main.ca3b564e.chunk.css.map"
+  }
+}
